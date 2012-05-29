@@ -1,7 +1,7 @@
 Project Name  : Chamani Company WebSite
 Website Domin : tooschamani.ir 
 
-Managment : Mostafa Rahmati 
+Managment : Mostafa Rahmati \n
 Data      : Amin Rahkan
 Code      : Masood Salman
 
